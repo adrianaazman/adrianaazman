@@ -1,11 +1,16 @@
 ## Hi there 👋
 
+- 🔭 I’m Adriana, a final-year Data Science student at the University of Sheffield
+- I do data analysis and am very keen on learning more about AI and ML practices in Python
+- My main tech stack is Python and mySQL
+- 📫 Reach out to me via LinkedIn!
+
 <!--
 **adrianaazman/adrianaazman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
